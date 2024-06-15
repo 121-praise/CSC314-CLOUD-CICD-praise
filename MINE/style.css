@@ -1,0 +1,52 @@
+ body 
+{background-color: beige;} 
+
+header
+ {
+width: 100%;
+}
+ h1
+ {
+    color:blue; 
+    background-color: brown;
+    border: 20px;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+}  
+
+ p
+  {
+    color:red;
+    font-style: italic;
+    text-align: center;
+  } 
+
+ .buttons
+  {
+    background-color: brown;
+    color:red;
+    border:beige;
+    
+  }
+  
+  .word
+  {
+    font-style: italic;
+  }
+
+  .payment
+  {
+    background-color: lightblue;
+
+  }
+
+  .options
+  {
+    background-color:  brown;
+    list-style-type:circle;
+    padding: 20px;
+    width: 100%;
+    margin: 30px;
+    border: 30px;
+  }
